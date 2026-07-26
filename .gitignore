@@ -10,11 +10,8 @@ Thumbs.db
 .env.*
 !.env.example
 
-# Blender temporary and recovery files
-*.blend1
-*.blend2
-*.blend@
-*.blend.lock
+# Godot editor and import cache
+.godot/
 
 # Render, simulation, and application caches
 **/renders/

@@ -115,5 +115,3 @@ WORLD 0.01%
 - 青い花の品種または架空デザイン
 - 次回投票の候補
 - `WORLD 0.01%` のUIデザイン
-- 映像制作手段（Blender本制作 / Gemini短尺分割 など。候補手順:
-  [gemini-video-live-001](../production/gemini-video-live-001.md)）
