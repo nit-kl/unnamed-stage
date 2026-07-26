@@ -20,8 +20,11 @@
 - 何かが始まる予感
 - 第1話だけでなく、終盤にも別の意味で歌える
 
-歌詞・曲・アレンジ・尺は未確定。  
-Suno 用の歌詞候補: [koko-kara-mada-v1](../../prompts/music/koko-kara-mada-v1.md)（候補）
+歌詞・曲・アレンジ・尺は未確定。
+
+現在の映像用歌詞候補: [koko-kara-mada-v2](../../prompts/music/koko-kara-mada-v2.md)（候補）
+
+旧案: [koko-kara-mada-v1](../../prompts/music/koko-kara-mada-v1.md)（候補・保管）
 
 ## 登場要素
 
@@ -108,7 +111,7 @@ WORLD 0.01%
 
 ## 未確定事項
 
-- 楽曲の歌詞、構成、BPM、尺（歌詞候補 v1 あり。未採用）
+- 楽曲の歌詞、構成、BPM、尺（LIVE #001 edit v2候補あり。未採用）
 - うたの振付
 - カメラ割り
 - ライブ会場フラッシュの具体的な画
