@@ -1,0 +1,39 @@
+# Local editor configuration
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Blender temporary and recovery files
+*.blend1
+*.blend2
+*.blend@
+*.blend.lock
+
+# Render, simulation, and application caches
+**/renders/
+**/cache/
+**/tmp/
+**/.cache/
+
+# Exported video and uncompressed audio
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+
+# Local AI models and checkpoints
+**/models/
+**/checkpoints/
+
+# Logs and Python cache
+*.log
+__pycache__/
+*.py[cod]

@@ -1,0 +1,11 @@
+height=1.5689390216721222
+min_z=0.0006528581725433469
+min_x=-0.25051188468933105
+max_x=0.250518262386322
+verts=29800
+faces=29802
+islands=1
+raw_islands=1
+non_manifold_edges=0
+location=(0.0, 0.0, 0.0)
+scale=(1.0, 1.0, 1.0)
